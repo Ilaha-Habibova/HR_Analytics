@@ -12,14 +12,16 @@ The company operated in a hybrid work model, with some employees working from th
 2) What are the work preferences (remote vs. office attendance)?
 3) How many employees took sick leave?
 
-## Power BI Dashboard:
+## My Power BI Dashboard:
 - <a href="https://github.com/Ilaha-Habibova/HR_Analytics/blob/main/HR%20Analytics.pbix">File</a>
 
-## Dashboard Image:
-![Dashboard_Image](https://github.com/user-attachments/assets/29b2ed18-dd28-4ef5-a5b0-021e9cd4234a)
+## The Dashboard Image:
+![Dashboard_image](https://github.com/user-attachments/assets/84b23ada-e188-425d-95f7-1d515c9e6106)
+
+
 
 ## Insights:
--The overall presence percentage across the observed months remains consistently high-above 89% across all months, indicating strong employee attendance, with a peak of 94.05% in April 2022.
+- The overall presence percentage across the observed months remains consistently high-above 89% across all months, indicating strong employee attendance, with a peak of 94.05% in April 2022.
 - WFH(work from home) rates are generally low, reaching a maximum of 11.23% in May 2022.
 - Sick leave percentages remain low, with a maximum of 1.68% in May 2022, which points to good employee health and effective health management.
 - Both WFH and sick leave percentages show variations from month to month, particularly in May 2022, which may indicate seasonal influences or specific events impacting employee availability.
