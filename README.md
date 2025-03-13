@@ -1,2 +1,25 @@
 # HR_Analytics
-Transform real-world HR data from Excel into actionable workforce insights with an interactive Power BI dashboard
+I worked on this project to analyze HR Excel data of the company AtliQ  using Power BI.
+
+## Dataset Used:
+- <a href="https://github.com/Ilaha-Habibova/HR_Analytics/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx">Dataset</a>
+
+## Objectives:
+The company operated in a hybrid work model, with some employees working from the office and others remotely. They needed insights into employee attendance and presence over the past three months.
+
+## Key Questions Answered:
+1) What percentage of employees were present?
+2) What are the work preferences (remote vs. office attendance)?
+3) How many employees took sick leave?
+
+## Power BI Dashboard:
+- <a href="https://github.com/Ilaha-Habibova/HR_Analytics/blob/main/HR%20Analytics.pbix">File</a>
+
+## Dashboard Image:
+![Dashboard_Image](https://github.com/user-attachments/assets/29b2ed18-dd28-4ef5-a5b0-021e9cd4234a)
+
+## Insights:
+-The overall presence percentage across the observed months remains consistently high-above 89% across all months, indicating strong employee attendance, with a peak of 94.05% in April 2022.
+- WFH(work from home) rates are generally low, reaching a maximum of 11.23% in May 2022.
+- Sick leave percentages remain low, with a maximum of 1.68% in May 2022, which points to good employee health and effective health management.
+- Both WFH and sick leave percentages show variations from month to month, particularly in May 2022, which may indicate seasonal influences or specific events impacting employee availability.
